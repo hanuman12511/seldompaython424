@@ -9,6 +9,6 @@ print(k) """
 k = f.Fact1(6)
 print(k) """
 
-from Fact import  *
+""" from Fact import  *
 k =Fact1(5)
-print(k)
+print(k) """
